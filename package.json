@@ -6,12 +6,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.3.1",
     "next": "latest",
+    "nprogress": "^0.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "postcss": "^8.3.5",
     "tailwindcss": "^2.2.4"
   }
